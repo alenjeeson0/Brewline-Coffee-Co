@@ -8,7 +8,8 @@ A specialty cafe landing page built with HTML and CSS. Editorial aesthetic, warm
 
 ## Preview
 
-> *(Add a screenshot here once deployed — drag an image into the GitHub README editor)*
+<img width="1900" height="943" alt="Screenshot 2026-06-24 175215" src="https://github.com/user-attachments/assets/231dd76c-d674-435a-bc34-76ba50290824" />
+
 
 ---
 
